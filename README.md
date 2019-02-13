@@ -23,20 +23,20 @@
 
 ## Program 
 
-  print ("==PROGRAM SEDERHANA MENENTUKAN BILANGAN TERBESAR DARI 3 BILANGAN==")
+ print ("==PROGRAM SEDERHANA MENENTUKAN BILANGAN TERBESAR DARI 3 BILANGAN==")
   
-  a = int(input("Masukkan bilangan 1:"))
+ a = int(input("Masukkan bilangan 1:"))
   
-  b = int(input("Masukkan bilangan 2:"))
+ b = int(input("Masukkan bilangan 2:"))
   
-  c = int(input("Masukkan bilangan 3:"))
+ c = int(input("Masukkan bilangan 3:"))
   
 
-  if a>b and a>c:
+ if a>b and a>c:
   
       print ("Bilangan terbesar adalah :",a)
       
-  if b>a and b>c:
+ if b>a and b>c:
   
      print ("Bilangan terbesar adalah :", b)
      
@@ -77,7 +77,9 @@
    
     
     
+    
 Penjelasan program :
+
 -print()     =>Fungsi untuk menampilan suatu output
 
 -" "         =>Deklarasi data adalah data string(huruf/kalimat)
