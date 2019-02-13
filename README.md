@@ -4,17 +4,18 @@
 
 ## Algoritma menentukan bilangan terbesar:
 
-1.Masukkan bilangan pertama (a)
+1.  Masukkan bilangan pertama (a)
 
-2.Masukkan bilangan kedua (b)
+2.  Masukkan bilangan kedua (b)
 
-3.Masukkan bilangan ketiga (c)
+3.  Masukkan bilangan ketiga (c)
 
-4.Jika a lebih dari b dan a lebih dari c, maka bilangan terbesar adalah a
+4.  Jika a lebih dari b dan a lebih dari c, maka bilangan terbesar adalah a
 
-5.Jika b lebih dari c dan b lebih dari a, maka bilangan terbesar adalah b
+5.  Jika b lebih dari c dan b lebih dari a, maka bilangan terbesar adalah b
 
-6.Jika pernyataan 4 dan 5 salah, maka bilangan terbesar adalah c
+6.  Jika pernyataan 4 dan 5 salah, maka bilangan terbesar adalah c
+
 
 ## Flowchart =>
 
@@ -23,16 +24,26 @@
 ## Program 
 
   print ("==PROGRAM SEDERHANA MENENTUKAN BILANGAN TERBESAR DARI 3 BILANGAN==")
+  
   a = int(input("Masukkan bilangan 1:"))
+  
   b = int(input("Masukkan bilangan 2:"))
+  
   c = int(input("Masukkan bilangan 3:"))
+  
 
   if a>b and a>c:
+  
       print ("Bilangan terbesar adalah :",a)
+      
   if b>a and b>c:
+  
      print ("Bilangan terbesar adalah :", b)
+     
   else :
+  
      print ("Bilangan terbesar adalah :",c)
+     
     
    <img width="960" alt="program" src="https://user-images.githubusercontent.com/47028610/52731925-86668400-2ff1-11e9-85d6-7ee6c2557d84.png">
     
