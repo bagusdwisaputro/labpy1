@@ -64,11 +64,17 @@
   <img width="960" alt="program" src="https://user-images.githubusercontent.com/47028610/52731925-86668400-2ff1-11e9-85d6-7ee6c2557d84.png">
 
    kita masukkan bilangan pertama :65
+   
    kita masukkan bilangan kedua :456
+   
    kita masukkan bilangan ketiga :8
+   
    maka pernyataan no.5 salah
+   
    pernyataan no.7 benar (b>a dan b>c)
+   
    maka akan menampilkan data b (456)
+   
     
     
 Penjelasan program :
